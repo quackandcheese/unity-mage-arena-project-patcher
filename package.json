@@ -1,5 +1,5 @@
 {
-  "name": "unity-mage-arena-project-patcher",
+  "name": "com.quackandcheese.unity-mage-arena-project-patcher",
   "version": "0.1.0",
   "displayName": "Mage Arena Project Patcher",
   "description": "A game wrapper that generates a Unity project from Mage Arena's build that can be playable in-editor",
