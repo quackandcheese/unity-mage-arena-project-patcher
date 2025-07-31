@@ -34,10 +34,6 @@ MonoBehaviour:
     outputPath: 
     exclude: 0
   - key: 
-    sourceName: Edgegap.dll
-    outputPath: 
-    exclude: 0
-  - key: 
     sourceName: Estrada.dll
     outputPath: 
     exclude: 0

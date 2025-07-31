@@ -112,7 +112,7 @@ Install with the manifest.json:
 
 ### Installing this Game Wrapper
 
-The same steps as previously, just with `https://github.com/[AUTHOR]/[GAME-WRAPPER-NAME].git`
+The same steps as previously, just with `https://github.com/quackandcheese/unity-mage-arena-project-patcher.git`
 
 ### Installing the BepInEx Wrapper
 
@@ -135,8 +135,8 @@ The tool window can be opened via `Tools > Unity Project Patcher > Open Window`
 
 Estimated patch durations:
 
-- Fresh patch: $ESTIMATED_DURATION$
-- Already patched: $ESTIMATED_DURATION$
+- Fresh patch: TBD
+- Already patched: TBD
 
 These can vary wildly depending on system speed and project size.
 
