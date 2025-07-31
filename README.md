@@ -72,8 +72,8 @@ You will have to make sure you have the following before using the tool in any w
 
 ### Unity Project
 
-- Requires [Unity %UNITY_VERSION%](https://unity.com/releases/editor/whats-new/%UNITY_VERSION%)
-- Unity %UNITY_PIPELINE% pipeline
+- Requires [Unity 2023.2.20](https://unity.com/releases/editor/whats-new/2023.2.20)
+- Unity HDRP pipeline (High Definition 3D)
 
 Create a new Unity project with the above requirements before getting started.
 
