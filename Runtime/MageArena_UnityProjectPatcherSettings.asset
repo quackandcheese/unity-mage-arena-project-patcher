@@ -22,31 +22,7 @@ MonoBehaviour:
     outputPath: 
     exclude: 0
   - key: 
-    sourceName: DissonanceVoip.dll
-    outputPath: 
-    exclude: 0
-  - key: 
-    sourceName: DissonanceVoip.FishNet.dll
-    outputPath: 
-    exclude: 0
-  - key: 
-    sourceName: Edgegap.dll
-    outputPath: 
-    exclude: 0
-  - key: 
     sourceName: Estrada.dll
-    outputPath: 
-    exclude: 0
-  - key: 
-    sourceName: FishNet.CodeAnalysis.dll
-    outputPath: 
-    exclude: 0
-  - key: 
-    sourceName: FishNet.Demos.dll
-    outputPath: 
-    exclude: 0
-  - key: 
-    sourceName: FishNet.Runtime.dll
     outputPath: 
     exclude: 0
   - key: 
@@ -62,27 +38,11 @@ MonoBehaviour:
     outputPath: 
     exclude: 0
   - key: 
-    sourceName: Recognissimo.dll
-    outputPath: 
-    exclude: 0
-  - key: 
-    sourceName: Recognissimo.Utils.dll
-    outputPath: 
-    exclude: 0
-  - key: 
     sourceName: UnityHFSM.dll
     outputPath: 
     exclude: 0
   - key: 
-    sourceName: ../Plugins/x86_64/AudioPluginDissonance.dll
-    outputPath: 
-    exclude: 0
-  - key: 
     sourceName: ../Plugins/x86_64/lib_burst_generated.dll
-    outputPath: 
-    exclude: 0
-  - key: 
-    sourceName: ../Plugins/x86_64/libRecognissimo.dll
     outputPath: 
     exclude: 0
   - key: 
@@ -91,10 +51,6 @@ MonoBehaviour:
     exclude: 0
   - key: 
     sourceName: ../Plugins/x86_64/steam_api64.dll
-    outputPath: 
-    exclude: 0
-  - key: 
-    sourceName: Assembly-CSharp-firstpass.dll
     outputPath: 
     exclude: 0
   _scriptDllFoldersToCopy: []

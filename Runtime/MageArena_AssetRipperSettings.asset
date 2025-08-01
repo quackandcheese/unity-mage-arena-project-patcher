@@ -125,6 +125,14 @@ MonoBehaviour:
     sourceName: VideoClip
     outputPath: Videos
     exclude: 0
+  - key: Bootstrap.unity
+    sourceName: Bootstrap.unity
+    outputPath: Scenes/Bootstrap.unity
+    exclude: 0
+  - key: GameScene.unity
+    sourceName: GameScene.unity
+    outputPath: Scenes/GameScene.unity
+    exclude: 0
   _foldersToCopy:
   - AnimationClip
   - AnimatorController
@@ -154,6 +162,15 @@ MonoBehaviour:
   - StreamingAssets
   - VideoClip
   - Scripts\Assembly-CSharp
+  - Bootstrap.unity
+  - GameScene.unity
+  - Scripts\FishNet.Runtime
+  - Scripts\FishNet.Demos
+  - Scripts\FishNet.CodeAnalysis
+  - Scripts\Recognissimo
+  - Scripts\Recognissimo.Utils
+  - Scripts\DissonanceVoip
+  - Scripts\DissonanceVoip.FishNet
   _filesToExcludeFromCopy: []
   _foldersToExcludeFromRead:
   - Scripts\Unity.Burst
